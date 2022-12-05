@@ -1,12 +1,13 @@
 body {
-    font-family: 'Optima';
+    font-family: 'Arial';
     font-size: 13pt;
     color: #333;
     margin: 60px auto;
     width: 70%;
+    background: gray;
 }
 nav ul, footer ul {
-    font-family:'Optima';
+    font-family:'Arial';
     padding: 0px;
     list-style: none;
     font-weight: bold;
