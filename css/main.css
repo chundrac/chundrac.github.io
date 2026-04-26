@@ -4,6 +4,7 @@ body {
     color: #333;
     margin: 60px auto;
     width: 70%;
+    background-color: hsla(0, 100%, 50%, 0.1);
 }
 nav ul, footer ul {
     font-family:'PT Sans';
